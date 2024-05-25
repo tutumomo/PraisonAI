@@ -14,3 +14,14 @@ praisonAI.egg-info
 flagged
 test.yaml
 db
+
+# ignore virtualenvs
+.venv
+venv*
+
+# ignore tmp dirs
+scratch
+junk
+tmp
+
+.ipynb_checkpoints
